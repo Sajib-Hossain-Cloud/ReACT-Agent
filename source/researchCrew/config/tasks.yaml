@@ -1,0 +1,15 @@
+research_task:
+ description: >
+  Conduct thorough research on {topic}. Focus on:
+    1. Key concepts and definitions
+    2. Historical development and recent trends
+    3. Major challenges and opportunities
+    4. Notable applications or case studies
+    5. Future outlook and potential developments
+
+    Make sure to organize your findings in a structured format with clear sections.
+ expected_output: >
+  A comprehensive research document with well-organized sections covering
+  all the requested aspects of {topic}. Include specific facts, figures,
+  and examples where relevant.
+ agent: researcher
